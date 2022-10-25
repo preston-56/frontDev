@@ -2,37 +2,104 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.profile_img {
+  margin: 4%;
+
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#profile__img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#slack {
+  display: none;
+
 }
 
-.App-link {
-  color: #61dafb;
+.a__twitter {
+  text-decoration: none;
+  color: black;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#btn__twitter {
+  background-color: #EAECF0;
+  margin: 5px 0;
+  padding: 5px 5px;
+  border: none;
+  width: 1152px;
+  height: 76px;
+}
+
+.a__zuri {
+  text-decoration: none;
+  color: black;
+}
+
+#btn__zuri {
+  background-color: #EAECF0;
+  margin: 5px 0;
+  padding: 5px 5px;
+  border: none;
+  width: 1152px;
+  height: 76px;
+
+}
+
+.a__books {
+  text-decoration: none;
+  color:black;
+}
+
+#books {
+  background-color: #EAECF0;
+  margin: 5px 0;
+  padding: 5px 5px;
+  border: none;
+  width: 1152px;
+  height: 76px;
+
+}
+
+.a__pythonBooks {
+  text-decoration: none;
+  color: black;
+}
+
+#book__python {
+  background-color: #EAECF0;
+  margin: 5px 0;
+  padding: 5px 5px;
+  border: none;
+  width: 1152px;
+  height: 76px;
+}
+
+.a__backgroundCheck {
+  text-decoration: none;
+  color: black;
+}
+
+#pitch {
+  background-color: #EAECF0;
+  margin: 5px 0;
+  padding: 5px 5px;
+  border: none;
+  width: 1152px;
+  height: 76px;
+}
+
+.a__bookDesign {
+  text-decoration: none;
+  color:black;
+}
+
+#book__design {
+  background-color: #EAECF0;
+  margin: 5px 0;
+  padding: 5px 5px;
+  border: none;
+  width: 1152px;
+  height: 76px;
 }
