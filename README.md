@@ -1,4 +1,4 @@
-# Create Zuri Webpage React App
+# Zuri Webpage React App
 
 Frontend design similar to linktree
 
